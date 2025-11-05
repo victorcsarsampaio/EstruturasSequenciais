@@ -22,5 +22,14 @@ public class Main {
     //  System.out.println("Qual o seu peso: " + peso);
 
 
+    String nome = "Lucia";
+    int idade = 75;
+    double peso = 70.0;
+
+        System.out.println("Qual seu nome ? " + nome);
+        System.out.println("Qual sua idade? " + idade);
+        System.out.println("Qual seu peso? " + peso);
+        
+
     }
 }
